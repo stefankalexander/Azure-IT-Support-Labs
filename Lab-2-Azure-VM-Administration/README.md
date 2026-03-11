@@ -32,6 +32,18 @@ Administrator needs to access a server remotely.
 3. Authenticate with admin credentials
 4. Verify system functionality
 
+## Azure VM Deployment
+
+![Azure VM Deployment](../Screenshots/azure-vm-deployment.png)
+
+## Remote Desktop Connection
+
+![Azure RDP](../Screenshots/azure-vm-rdp.png)
+
+## Required Applications
+
+![Applications Installed](../Screenshots/apps-needed.png)
+
 ## Outcome
 
 Successfully deployed and accessed a Windows Server VM using Azure and Remote Desktop.
