@@ -31,6 +31,24 @@ User reports they cannot access the internet.
 3. Check DNS resolution
 4. Identify network routing issues
 
+## IP Configuration
+
+![IPConfig Output](../Screenshots/network-ipconfig.png)
+
+## Ping Test
+
+![Ping Test](../Screenshots/network-ping.png)
+
+![Ping Test 2](../Screenshots/network-ping2.png)
+
+## DNS Lookup
+
+![NSLookup](../Screenshots/network-nslookup.png)
+
+## Trace Route
+
+![Trace Route](../Screenshots/network-tracert.png)
+
 ## Outcome
 
 Confirmed network connectivity and demonstrated the troubleshooting workflow used by IT support technicians.
