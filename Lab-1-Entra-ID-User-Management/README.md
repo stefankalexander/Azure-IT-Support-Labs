@@ -32,6 +32,18 @@ User reports they cannot log in.
 3. Verify account is enabled
 4. Confirm user can authenticate
 
+## User Creation
+
+![Entra User Created](../Screenshots/entra-user-created.png)
+
+## Password Reset
+
+![Password Reset](../Screenshots/entra-password-reset.png)
+
+## Multi-Factor Authentication
+
+![MFA Setup](../Screenshots/MFA.png)
+
 ## Outcome
 
 Successfully created and managed users in Microsoft Entra ID and simulated common help desk account management tasks.
