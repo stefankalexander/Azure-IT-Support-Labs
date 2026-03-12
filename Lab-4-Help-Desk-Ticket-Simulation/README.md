@@ -21,6 +21,16 @@ User reports they cannot access the internet from their workstation.
 - Network diagnostics
 - Tier 1 help desk workflow
 
+## Troubleshooting Workflow
+
+![IP Configuration](../Screenshots/network-ipconfig.png)
+
+![Ping Test](../Screenshots/network-ping.png)
+
+![DNS Lookup](../Screenshots/network-nslookup.png)
+
+![Trace Route](../Screenshots/network-tracert.png)
+
 ## Outcome
 
 Simulated a real-world help desk troubleshooting process and resolved connectivity issues using command-line diagnostic tools.
