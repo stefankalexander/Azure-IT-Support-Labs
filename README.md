@@ -1,5 +1,5 @@
 # Azure-IT-Support-Labs
-Hands-on IT support labs using Microsoft Azure, Entra ID, and Windows Server.
+Hands-on labs demonstrating IT support skills including Microsoft Entra ID, Azure VM administration, network troubleshooting, and Active Directory management.
 ## Labs Included
 
 - Lab 1 — Entra ID User Management
