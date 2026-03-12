@@ -31,7 +31,7 @@ The following Organizational Units (OUs) were created to organize users and reso
 - HelpDesk
 - Servers
 
-![Active Directory OUs](../Screenshots/ad-organizational-units.png)
+![Active Directory OUs](../Screenshots/ad-users-created.png)
 
 ---
 
