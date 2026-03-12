@@ -6,4 +6,4 @@ Hands-on IT support labs using Microsoft Azure, Entra ID, and Windows Server.
 - Lab 2 — Azure Virtual Machine Administration
 - Lab 3 — Network Troubleshooting
 - Lab 4 — Help Desk Ticket Simulation
-- Lab-5-Active-Directory-User-Management
+- Lab 5 — Active-Directory-User-Management
