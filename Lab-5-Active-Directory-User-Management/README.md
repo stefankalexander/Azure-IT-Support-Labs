@@ -52,7 +52,7 @@ Example users:
 
 A password reset was performed to simulate a common help desk request where a user forgets their login credentials.
 
-![Password Reset](../Screenshots/ad-password-reset.png)
+![Password Reset](../Screenshots/password-reset.png)
 
 ---
 
